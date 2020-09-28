@@ -1,0 +1,17 @@
+.wrap {
+
+}
+
+.circle {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    background-color: aqua;
+    animation: move 2s ease 2s linear;
+}
+
+
+  @keyframes move {
+
+  }
+  
